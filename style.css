@@ -1,0 +1,23 @@
+body{
+	background:yellow
+}
+h1{
+	background-color:black;
+	font-size:200%;color:white;
+}
+h2{
+	font-size:150%;color:red;
+}
+ol{
+	list-style-type:lower-greek;
+}
+p::first-letter{
+	font-weight:bold;
+}
+ul::first-line{
+	font-size:120%;
+	font-weight:bold;
+}
+h1.profile{
+	font-style:italic;
+}
